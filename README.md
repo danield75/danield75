@@ -7,7 +7,7 @@
   </ul>
 - :100: I have completed:
   <ul>
-  <li>Completed The complete ASP.NET Core 9 Course 2024 with MVC and Web API (Udemy)</li>
+  <li>The complete ASP.NET Core 9 Course 2024 with MVC and Web API (Udemy)</li>
   <li>Git and GitHub for Developers (Udemy)</li>
   <li>C# Intermediate: Classes, Interfaces and OOP (Udemy)</li>
   </ul>
