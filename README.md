@@ -2,8 +2,8 @@
 - 👀 I’m interested in coding, running and atletics
 - 🌱 I’m currently learning:
   <ul>
-  <li>AZ-204 Developing Solutions for Microsoft Azure - SEP 2024 (Udemy)</li>
-  <li>Terraform Infrastructure as Code (IaC) Azure Virtual Machine (Udemy)</li>
+  <li>Angular - The Complete Guide (2024 Edition) (Udemy)</li>
+  <li>Learn C# Full Stack Development with Angular and ASP.NET (Udemy)</li>
   </ul>
 - :100: I have completed:
   <ul>
