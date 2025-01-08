@@ -11,10 +11,10 @@
   <li>Git and GitHub for Developers (Udemy)</li>
   <li>C# Intermediate: Classes, Interfaces and OOP (Udemy)</li>
   </ul>
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on challenging projects!
 - 📫 How to reach me : You can send me a message via <a href="https://www.linkedin.com/in/daniel-drion/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Motivated, learner, running
+- ⚡ Fun fact: I'm into running and atletics, check my <a href="https://www.strava.com/athletes/7458216" target="_blank" rel="noopener noreferrer">Strava profile</a>
 
 <!---
 danield75/danield75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
