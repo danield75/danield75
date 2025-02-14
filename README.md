@@ -3,13 +3,14 @@
 - 🌱 I’m currently learning:
   <ul>
   <li>Angular - The Complete Guide (2024 Edition) (Udemy)</li>
-  <li>Learn C# Full Stack Development with Angular and ASP.NET (Udemy)</li>
+  <li>Build an app with ASPNET Core and Angular from scratch (Udemy)</li>
   </ul>
 - :100: I have completed:
   <ul>
-  <li>The complete ASP.NET Core 9 Course 2024 with MVC and Web API (Udemy)</li>
-  <li>Git and GitHub for Developers (Udemy)</li>
-  <li>C# Intermediate: Classes, Interfaces and OOP (Udemy)</li>
+  <li><a href="https://www.udemy.com/course/build-an-app-with-aspnet-core-and-angular-from-scratch" target="_blank" rel="noopener noreferrer">Learn C# Full Stack Development with Angular and ASP.NET (Udemy)</a></li>
+  <li><a href="https://www.udemy.com/course/the-complete-guide-to-angular-2" target="_blank" rel="noopener noreferrer">The complete ASP.NET Core 9 Course 2024 with MVC and Web API (Udemy)</a></li>
+  <li><a href="https://www.udemy.com/course/git-for-developers" target="_blank" rel="noopener noreferrer">Git and GitHub for Developers (Udemy)</a></li>
+  <li><a href="https://www.udemy.com/course/csharp-intermediate-classes-interfaces-and-oop" target="_blank" rel="noopener noreferrer">C# Intermediate: Classes, Interfaces and OOP (Udemy)</a></li>
   </ul>
 - 💞️ I’m looking to collaborate on challenging projects!
 - 📫 How to reach me : You can send me a message via <a href="https://www.linkedin.com/in/daniel-drion/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
