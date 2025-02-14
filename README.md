@@ -7,8 +7,8 @@
   </ul>
 - :100: I have completed:
   <ul>
-  <li><a href="https://www.udemy.com/course/build-an-app-with-aspnet-core-and-angular-from-scratch" target="_blank" rel="noopener noreferrer">Learn C# Full Stack Development with Angular and ASP.NET (Udemy)</a></li>
-  <li><a href="https://www.udemy.com/course/master-fullstack-web-development-with-angular-and-csharp-aspnet" target="_blank" rel="noopener noreferrer">The complete ASP.NET Core 9 Course 2024 with MVC and Web API (Udemy)</a></li>
+  <li><a href="https://www.udemy.com/course/master-fullstack-web-development-with-angular-and-csharp-aspnet" target="_blank" rel="noopener noreferrer">Learn C# Full Stack Development with Angular and ASP.NET (Udemy)</a></li>
+  <li><a href="https://www.udemy.com/course/aspnet-6-course" target="_blank" rel="noopener noreferrer">The complete ASP.NET Core 9 Course 2024 with MVC and Web API (Udemy)</a></li>
   <li><a href="https://www.udemy.com/course/git-for-developers" target="_blank" rel="noopener noreferrer">Git and GitHub for Developers (Udemy)</a></li>
   <li><a href="https://www.udemy.com/course/csharp-intermediate-classes-interfaces-and-oop" target="_blank" rel="noopener noreferrer">C# Intermediate: Classes, Interfaces and OOP (Udemy)</a></li>
   </ul>
